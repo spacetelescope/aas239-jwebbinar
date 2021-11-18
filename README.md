@@ -1,6 +1,7 @@
 ##  JWebbinar Workshop :  Intro to JWST Data Analysis and Visualization
 ===============================================
-*Workshop held at AAS239 in Salt Lake City*
+
+**Workshop held at AAS239 in Salt Lake City**
 
 * Date: Sunday January 9, 2022
 * Time: 8:30 -- 1:00 pm
