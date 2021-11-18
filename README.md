@@ -7,11 +7,11 @@
 * Location: TBD
 
 
-##Pre-Workshop Setup
+## Pre-Workshop Setup
 Please be sure to follow the [setup instructions](00_Installation) prior to arrival.
 
 
-##Schedule for Dry Run Nov. 29
+## Schedule for Dry Run Nov. 29
 
 |Time (EST)     |Topic    |
 |---------------|--------------------------------------|
