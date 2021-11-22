@@ -1,15 +1,27 @@
-## Setup and Installation Instruciton for the Workshop
+## Setup and Installation Instructions for the Workshop
+
+
+To download and execute the notebooks, we recommend you clone the 
+aas239-jwebbinar repository to your local computer. 
+You will then want to install all associated packages necessary to run the notebooks. 
+These packages can be installed using pip.
+You will need python version **3.8.10**. We recommend the 
+following command sequence:
+
+```   
+% git clone https://github.com/spacetelescope/jdat_notebooks.git
+% cd jdat_notebooks/notebooks/<whatever-notebook>
+% conda create -n jwebbinar python=3.8.10
+% conda activate jwebbinar
+% pip install -r pre-requirements.txt
+% pip install -r requirements.txt
+% pip install jupyter
+% jupyter notebook
+```
 
 For the commands shown, `%` (and anything to the left of it) represents the
 terminal prompt. You do not need to copy it; instead only copy the command to the
 right of `%`.
-
-If you already have conda installed, you will just need a new environment following these commands:
-conda create -n jwebbinar python=3.8
-conda activate jwebbinar
-pip install jdaviz
-pip install jwst
-
 
 ## Install Miniconda (if needed)
 
