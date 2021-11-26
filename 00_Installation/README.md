@@ -9,8 +9,8 @@ You will need python version **3.8.10**. We recommend the
 following command sequence:
 
 ```   
-% git clone https://github.com/spacetelescope/jdat_notebooks.git
-% cd jdat_notebooks/notebooks/<whatever-notebook>
+% git clone https://github.com/spacetelescope/aas239-jwebbinar.git
+% cd aas239-jwebbinar/00_Installation
 % conda create -n jwebbinar python=3.8.10
 % conda activate jwebbinar
 % pip install -r pre-requirements.txt
