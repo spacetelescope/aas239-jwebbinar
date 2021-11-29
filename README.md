@@ -9,7 +9,7 @@
 
 
 ## Pre-Workshop Setup
-Please be sure to follow the [setup instructions](00_Installation) prior to arrival.
+Please be sure to follow the [setup instructions](00_Installation/README.md) prior to arrival.
 
 
 ## Schedule for Dry Run Nov. 29

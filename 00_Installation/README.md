@@ -11,8 +11,8 @@ following command sequence:
 ```   
 % git clone https://github.com/spacetelescope/aas239-jwebbinar.git
 % cd aas239-jwebbinar/00_Installation
-% conda create -n jwebbinar python=3.8.10
-% conda activate jwebbinar
+% conda create -n aas239-jwebbinar python=3.8.10
+% conda activate aas239-jwebbinar
 % pip install -r pre-requirements.txt
 % pip install -r requirements.txt
 % pip install jupyter

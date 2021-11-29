@@ -1,1 +1,1 @@
-Materials for the JWST Data Analysis Science Workflow Hack Hour
+This directory holds materials for the JWST Data Analysis Science Workflow Hack Hour
