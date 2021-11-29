@@ -46,7 +46,7 @@ You will need python version **3.8.10**.
 We recommend the following command sequence, which creates a conda environment and installs the requirements into it.  
 
 ```
-% conda create -n aas239-jwebbinar python=3.8.10 pip wheel numpy
+% conda create -n aas239-jwebbinar pip wheel numpy scipy
 % conda activate aas239-jwebbinar
 % pip install -r pre-requirements.txt
 % pip install -r requirements.txt
