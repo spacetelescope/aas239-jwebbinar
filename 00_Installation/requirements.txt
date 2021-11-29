@@ -12,4 +12,3 @@ jwst >= 1.3.2
 git+https://github.com/spacetelescope/jdaviz.git@main
 git+https://github.com/radio-astro-tools/radio-beam.git
 jupyter
-jdaviz
