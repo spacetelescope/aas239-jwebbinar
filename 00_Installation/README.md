@@ -50,3 +50,9 @@ We recommend the following command sequence, which creates a conda environment a
 % pip install -r pre-requirements.txt
 % pip install -r requirements.txt
 ```
+
+Note that if you follow the above instructions, any time you open a new terminal you *must* do:
+```
+% conda activate aas239-jwebbinar
+```
+for your installed packages to get used by Python.
