@@ -42,7 +42,6 @@ If you do not have git installed you will need to [install git]().  Once you hav
 
 These packages are reqorded in the requirements files in this directory, and can be installed using pip.
 
-You will need python version **3.8.10**. 
 We recommend the following command sequence, which creates a conda environment and installs the requirements into it.  
 
 ```
