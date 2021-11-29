@@ -40,18 +40,20 @@ If you do not have git installed you will need to [install git]().  Once you hav
 
 ## Step 3: Install the requirements
 
-These packages are reqorded in the requirements files in this directory, and can be installed using pip.
+These packages are recorded in the requirements files in this directory, and can be installed using pip.
 
 We recommend the following command sequence, which creates a conda environment and installs the requirements into it.  
 
+**Note: these commands will install version 3.9 of Python. Other versions of Python may work, but have ot been thoroughly tested, so they may or may not work for you.**
+
 ```
-% conda create -n aas239-jwebbinar pip wheel numpy scipy
+% conda create -n aas239-jwebbinar pip wheel numpy scipy bottleneck python=3.9
 % conda activate aas239-jwebbinar
 % pip install -r pre-requirements.txt
 % pip install -r requirements.txt
 ```
 
-Note that if you follow the above instructions, any time you open a new terminal you *must* do:
+If you follow the above instructions, any time you open a new terminal you *must* do:
 ```
 % conda activate aas239-jwebbinar
 ```
