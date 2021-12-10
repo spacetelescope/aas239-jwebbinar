@@ -12,18 +12,23 @@
 Please be sure to follow the [setup instructions](00_Installation/README.md) prior to arrival.
 
 
-## Schedule for Dry Run Nov. 29
+## Schedule for the AAS
 
-|Time (EST)     |Topic    |
+
+|Time (MST)     |Topic    |
 |---------------|--------------------------------------|
-|2:00 pm        | Welcome                              |
-|2:05 pm        | Jdaviz Philosophy                    |
-|2:15 pm        | Imviz and Specviz                    |
-|2:30 pm        | Hands on  Examples                   |
-|2:50 pm        | Mosviz and Cubeviz                   |
-|3:00 pm        | BREAK                                |
-|3:10 pm        | Intro to JDAT Notebooks              |
-|3:20 pm        | Notebook Work                        |
+|8:30 am        | Install Software (Come early if you are having trouble!)|
+|9:00 am        | Welcome                              |
+|9:15 am        | JWST Pipeline and Data Exploration   |
+|10:00 am       | Run Pipeline Yourself                |
+|10:30 am       | BREAK                                |
+|10:45 am       | Data Visuallization with Jdaviz      |
+|11:00 am       | Imviz and Specviz                    |
+|11:30 am       | Mosviz and Cubeviz                   |
+|12:00 pm       | Intro to JDAT Notebooks              |
+|12:10 pm       | Pick an Activity                     |
+|12:50 am       | Present Accomplishments              |
+|1:00 am        | DONE                                 |
 
 
 ## Description
