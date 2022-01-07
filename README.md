@@ -1,18 +1,16 @@
 ##  JWebbinar Workshop :  Intro to JWST Data Analysis and Visualization
 ===============================================
-
-**Workshop held at AAS239 in Salt Lake City**
-
-* Date: Sunday January 9, 2022
-* Time: 8:30 -- 1:00 pm
-* Location: TBD
+**This AAS Workshop is now Virtual**
+* Date: Wednesday January 12, 2022 1pm EST
+* Location: Bluejeans
 
 
 ## Pre-Workshop Setup
 Please be sure to follow the [setup instructions](00_Installation/README.md) prior to arrival.
 
 
-## Schedule for the AAS
+## Schedule for the Virtual Workshop.
+**Because of time constraints related to doing this workshop virtually, we will skip the JWST Pipeline section, please review that information on your own.**
 
 
 |Time (MST)     |Topic    |
