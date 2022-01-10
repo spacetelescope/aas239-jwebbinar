@@ -60,3 +60,14 @@ We recommend the following command sequence, which creates a conda environment a
 % pip install -r pre-requirements.txt
 % pip install -r requirements.txt
 ```
+
+## Step 4: Verify Installation
+
+Run the `ValidateEnvironment.ipynb` notebook to test that your installation works.
+
+```
+% cd aas239-jwebbinar
+% jupyter notebook ValidateEnvironment.ipynb
+```
+
+From the menu choose *Kernel* and then *Restart and Run All*.  If the last cell runs, you are good to go.
