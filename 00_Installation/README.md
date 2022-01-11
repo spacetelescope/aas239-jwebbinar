@@ -52,7 +52,7 @@ If you do not have git installed you will need to [install git]().  Once you hav
 These packages are reqorded in the requirements files in this directory, and can be installed using pip.
 
 You will need python version **3.8.10**. 
-We recommend using the following command sequence, to creates a conda environment and prepare it for installation  
+We recommend using the following command sequence to creates a conda environment and prepare it for installation  
 
 ```
 % conda create -n aas239-jwebbinar python=3.8.10 pip wheel numpy
