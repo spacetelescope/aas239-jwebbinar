@@ -1,3 +1,2 @@
 wheel
 numpy==1.18.5
-astropy-helpers==2.0.11
