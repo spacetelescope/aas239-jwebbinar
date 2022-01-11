@@ -15,18 +15,18 @@ Please be sure to follow the [setup instructions](00_Installation/README.md) pri
 
 |Time (MST)     |Topic    |
 |---------------|--------------------------------------|
-|8:30 am        | Install Software (Come early if you are having trouble!)|
-|9:00 am        | Welcome                              |
-|9:15 am        | JWST Pipeline and Data Exploration   |
-|10:00 am       | Run Pipeline Yourself                |
-|10:30 am       | BREAK                                |
-|10:45 am       | Data Visuallization with Jdaviz      |
-|11:00 am       | Imviz and Specviz                    |
-|11:30 am       | Mosviz and Cubeviz                   |
-|12:00 pm       | Intro to JDAT Notebooks              |
-|12:10 pm       | Pick an Activity                     |
-|12:50 am       | Present Accomplishments              |
-|1:00 am        | DONE                                 |
+|       | Install Software (Come early if you are having trouble!)|
+|       | Welcome                              |
+|        | JWST Pipeline and Data Exploration   |
+|       | Run Pipeline Yourself                |
+|      | BREAK                                |
+|     | Data Visuallization with Jdaviz      |
+|      | Imviz and Specviz                    |
+|     | Mosviz and Cubeviz                   |
+|      | Intro to JDAT Notebooks              |
+|     | Pick an Activity                     |
+|     | Present Accomplishments              |
+|        | DONE                                 |
 
 
 ## Description
