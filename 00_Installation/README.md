@@ -75,7 +75,7 @@ Otherwise, on macOS or a Linux distribution (or on Windows within a Windows Subs
 Run the `ValidateEnvironment.ipynb` notebook to test that your installation works.
 
 ```
-% cd aas239-jwebbinar
+% cd ..
 % jupyter notebook ValidateEnvironment.ipynb
 ```
 
