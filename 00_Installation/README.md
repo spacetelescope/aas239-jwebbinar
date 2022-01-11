@@ -52,12 +52,21 @@ If you do not have git installed you will need to [install git]().  Once you hav
 These packages are reqorded in the requirements files in this directory, and can be installed using pip.
 
 You will need python version **3.8.10**. 
-We recommend the following command sequence, which creates a conda environment and installs the requirements into it.  
+We recommend using the following command sequence to create a conda environment and prepare it for installation  
 
 ```
 % conda create -n aas239-jwebbinar python=3.8.10 pip wheel numpy
 % conda activate aas239-jwebbinar
 % pip install -r pre-requirements.txt
+```
+
+Afterwards, please install the main requirements file. If you are on a Windows machine (not installing within the Windows Subsystem for Linux), please run our specific windows requirements file
+```
+% pip install -r requirements_windows.txt
+```
+
+Otherwise, on macOS or a Linux distribution (or on Windows within a Windows Subsystem for Linux):
+```
 % pip install -r requirements.txt
 ```
 
@@ -66,7 +75,7 @@ We recommend the following command sequence, which creates a conda environment a
 Run the `ValidateEnvironment.ipynb` notebook to test that your installation works.
 
 ```
-% cd aas239-jwebbinar
+% cd ..
 % jupyter notebook ValidateEnvironment.ipynb
 ```
 
