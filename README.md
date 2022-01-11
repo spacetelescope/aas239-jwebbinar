@@ -1,29 +1,33 @@
 ##  JWebbinar Workshop :  Intro to JWST Data Analysis and Visualization
 ===============================================
 
-**Workshop held at AAS239 in Salt Lake City**
-
-* Date: Sunday January 9, 2022
-* Time: 8:30 -- 1:00 pm
-* Location: TBD
+**This AAS Workshop is now Virtual**
+* Date: Wednesday January 12, 2022 1pm EST
+* Location: Bluejeans
 
 
 ## Pre-Workshop Setup
 Please be sure to follow the [setup instructions](00_Installation/README.md) prior to arrival.
 
 
-## Schedule for Dry Run Nov. 29
+## Schedule for the Virtual Workshop.
+**Because of time constraints related to doing this workshop virtually, we will skip the JWST Pipeline section, please review that information on your own.**
+
 
 |Time (EST)     |Topic    |
 |---------------|--------------------------------------|
-|2:00 pm        | Welcome                              |
-|2:05 pm        | Jdaviz Philosophy                    |
-|2:15 pm        | Imviz and Specviz                    |
-|2:30 pm        | Hands on  Examples                   |
-|2:50 pm        | Mosviz and Cubeviz                   |
-|3:00 pm        | BREAK                                |
-|3:10 pm        | Intro to JDAT Notebooks              |
-|3:20 pm        | Notebook Work                        |
+|  1:00-1:10     | Install Software (Come early if you are having trouble!)|
+|  1:10-1:25     | Welcome                              |
+|    X    | JWST Pipeline and Data Exploration   |
+|    X   | Run Pipeline Yourself                |
+|    X  | BREAK                                |
+| 1:25-2:20    | Data Visuallization with Jdaviz      |
+|      | Imviz and Specviz                    |
+|     | Mosviz and Cubeviz                   |
+|  2:20-2:55    | Intro to JDAT Notebooks              |
+|     | Pick an Activity                     |
+| 2:55    | Gather for closing remarks and remaining questions  |
+| 3:15       | DONE                                 |
 
 
 ## Description
