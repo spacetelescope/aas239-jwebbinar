@@ -60,14 +60,14 @@ We recommend using the following command sequence to create a conda environment 
 % pip install -r pre-requirements.txt
 ```
 
-Afterwards, please install the main requirements file. If you are on a Windows machine (not installing within the Windows Subsystem for Linux), please run our specific windows requirements file
-```
-% pip install -r requirements_windows.txt
-```
-
-Otherwise, on macOS or a Linux distribution (or on Windows within a Windows Subsystem for Linux):
+Afterwards, please install the main requirements file. On macOS or a Linux distribution (or on Windows within a Windows Subsystem for Linux):
 ```
 % pip install -r requirements.txt
+```
+
+A corresponding requirements file for Windows (not installing within the Windows Subsystem for Linux) is provided, but is not currently supported. We are currently aware of the following issue for some Windows users: https://github.com/spacetelescope/aas239-jwebbinar/issues/22. For those users who would like to attempt a native Windows install, please use our windows-specific requirements file:
+```
+% pip install -r requirements_windows.txt
 ```
 
 ## Step 4: Verify Installation
